@@ -1,0 +1,1944 @@
+{
+  "aution": {
+    "id": "EQWmzOmKavAg_9",
+    "name": "Chương trình đấu giá",
+    "description": null,
+    "iconURL": "https://pixel.c-group.online/v1/image/t_origin/1730799382-323.png",
+    "backgroundColor": null,
+    "titleColor": "#FFFFFF",
+    "navigateListButtonColor": "#FFFFFF",
+    "backgroundImageURL": "https://pixel.c-group.online/v1/file/1715575640-774.png",
+    "displayType": "SLIDE",
+    "type": "AUCTION_CAMPAIGN",
+    "canDisplay": false,
+    "promotions": null,
+    "campaigns": null,
+    "__typename": "ProductCollection",
+    "products": {
+      "auctionItems": [
+        {
+          "id": "lb3yze8p6xjq_231",
+          "auctionCampaignID": "qRrjK0jzw1B9_6",
+          "campaign": {
+            "status": "",
+            "startDate": "2025-08-15T17:00:59Z",
+            "endDate": "2025-08-20T16:59:59Z",
+            "timingStatus": "ENDED",
+            "resultApprovedAt": null,
+            "applicationDeadline": null
+          },
+          "product": [
+            {
+              "id": "anWKN0QRzjyY_2596",
+              "name": "Bộ vi xử lý INTEL Pentium G6400 Tray",
+              "thumbnail": "https://pixel.c-group.online/v1/image/t_origin/1755255514-724.png",
+              "brand": {
+                "id": "wy5KjpLJzX2j_2288",
+                "name": "INTEL"
+              }
+            }
+          ],
+          "sellerItemInfo": {
+            "orderID": null,
+            "latestBidStatus": null,
+            "currentUserNextAction": {
+              "actionButtonType": "CREATE_FIRST_BID",
+              "isActive": true,
+              "__typename": "AuctionItemAction"
+            },
+            "price": 290000000,
+            "latestBidEvent": null
+          },
+          "participants": [
+            "N",
+            "N"
+          ],
+          "quantity": 250,
+          "startPrice": 290000000,
+          "step": 1000000,
+          "approvedAt": null,
+          "approvalResult": "PENDING",
+          "reservePrice": 312500000,
+          "winningSellerCountType": "ONE_SELLER",
+          "quantityWinningSeller": 1
+        },
+        {
+          "id": "VyY2KZob6NQZ_232",
+          "auctionCampaignID": "qRrjK0jzw1B9_6",
+          "campaign": {
+            "status": "",
+            "startDate": "2025-08-15T17:00:59Z",
+            "endDate": "2025-08-20T16:59:59Z",
+            "timingStatus": "ENDED",
+            "resultApprovedAt": null,
+            "applicationDeadline": null
+          },
+          "product": [
+            {
+              "id": "nj0YP43ozG5l_977",
+              "name": "Bộ vi xử lý INTEL Core I5 11400F Tray",
+              "thumbnail": "https://pixel.c-group.online/v1/image/t_origin/1753070504-953.jpg",
+              "brand": {
+                "id": "wy5KjpLJzX2j_2288",
+                "name": "INTEL"
+              }
+            }
+          ],
+          "sellerItemInfo": {
+            "orderID": null,
+            "latestBidStatus": null,
+            "currentUserNextAction": {
+              "actionButtonType": "CREATE_FIRST_BID",
+              "isActive": true,
+              "__typename": "AuctionItemAction"
+            },
+            "price": 325000000,
+            "latestBidEvent": null
+          },
+          "participants": [
+            "I"
+          ],
+          "quantity": 200,
+          "startPrice": 325000000,
+          "step": 1000000,
+          "approvedAt": null,
+          "approvalResult": "PENDING",
+          "reservePrice": 344000000,
+          "winningSellerCountType": "ONE_SELLER",
+          "quantityWinningSeller": 1
+        }
+      ]
+    }
+  },
+  "best_seller": {
+    "id": "ZWjMKGqzYl9x_3",
+    "name": "Top bán chạy",
+    "description": "Các sản phẩm hot nhất trên thị trường",
+    "iconURL": "https://pixel.c-group.online/v1/file/1715829822-951.png",
+    "backgroundColor": null,
+    "titleColor": "#242533",
+    "navigateListButtonColor": "#005EFF",
+    "backgroundImageURL": null,
+    "displayType": "SLIDE",
+    "type": "BEST_SELLER",
+    "canDisplay": true,
+    "promotions": null,
+    "campaigns": null,
+    "__typename": "ProductCollection",
+    "products": [
+      {
+        "id": "rjK0R955rzw1_95740850",
+        "name": "Ổ cứng HDD WD 1TB 3.5 Sata Blue WD10EZEX (7200rpm)",
+        "thumbnail": null,
+        "brandId": "D2vPyvR7K5Jb_2328",
+        "brandName": "WD",
+        "price": 1240000,
+        "uom": "Cái",
+        "minOrderQuantity": 1,
+        "stockStatus": "OUT_OF_STOCK"
+      },
+      {
+        "id": "rjK0R95GXzw1_95740906",
+        "name": "Quạt Fan Case Vô cực Vitra Link ARGB Black",
+        "thumbnail": null,
+        "brandId": "pQL6Jjdp64Nj_2529",
+        "brandName": "VITRA",
+        "price": 80000,
+        "uom": "Cái",
+        "minOrderQuantity": 1,
+        "stockStatus": "FULL"
+      }
+    ]
+  },
+  "combo": {
+    "id": "ALQkKlQ6eM09_10",
+    "name": "Combo deal độc quyền",
+    "description": null,
+    "iconURL": "https://pixel.c-group.online/v1/image/t_origin/1737013130-613.png",
+    "backgroundColor": null,
+    "titleColor": "#FFFFFF",
+    "navigateListButtonColor": "#FFFFFF",
+    "backgroundImageURL": "https://pixel.c-group.online/v1/image/t_origin/1737081923-46.png",
+    "displayType": "SLIDE",
+    "type": "COMBO_PROMOTION",
+    "canDisplay": true,
+    "promotions": [
+      {
+        "id": "EQWmzOqpKavA_197",
+        "conditionPromotionProducts": [
+          {
+            "productID": "mJK5O0XqJzaE_95738069",
+            "__typename": "ConditionPromotionProduct"
+          },
+          {
+            "productID": "196pQkmlNzdk_95738071",
+            "__typename": "ConditionPromotionProduct"
+          },
+          {
+            "productID": "7O6qQYl8o6GM_95740958",
+            "__typename": "ConditionPromotionProduct"
+          },
+          {
+            "productID": "4JzmZW073PZj_95740959",
+            "__typename": "ConditionPromotionProduct"
+          },
+          {
+            "productID": "Mm6W7MLaL6EY_95740960",
+            "__typename": "ConditionPromotionProduct"
+          },
+          {
+            "productID": "rD6B8kvBgPW8_95740961",
+            "__typename": "ConditionPromotionProduct"
+          },
+          {
+            "productID": "g0P7VNZ00zWO_95740962",
+            "__typename": "ConditionPromotionProduct"
+          },
+          {
+            "productID": "nVKkoqRWxK1M_95740963",
+            "__typename": "ConditionPromotionProduct"
+          },
+          {
+            "productID": "B7PYYMo0WPEG_95740964",
+            "__typename": "ConditionPromotionProduct"
+          },
+          {
+            "productID": "aozgyljXDKNq_95740965",
+            "__typename": "ConditionPromotionProduct"
+          },
+          {
+            "productID": "jkzEj80OBP50_95740967",
+            "__typename": "ConditionPromotionProduct"
+          },
+          {
+            "productID": "LMzLnMDEAKQr_95740968",
+            "__typename": "ConditionPromotionProduct"
+          }
+        ],
+        "name": "🔥 TRẢI NGHIỆM TẢN NHIỆT THERMALRIGHT - COMBO QUỐC DÂN VỚI GIÁ TẬN GỐC 🔥",
+        "status": "ON_GOING",
+        "startDate": "2025-08-14T17:00:01Z",
+        "endDate": "2025-08-25T16:59:59Z",
+        "banner": {
+          "id": "eanVKkZGP1MA_363",
+          "mobileURL": "https://pixel.c-group.online/v1/file/1755061576-860.png",
+          "clickURL": null,
+          "imageURL": "https://pixel.c-group.online/v1/file/1755061575-465.png",
+          "__typename": "Banner"
+        },
+        "__typename": "PromotionCampaign"
+      },
+      {
+        "id": "4a15K9JD6rdv_201",
+        "conditionPromotionProducts": [
+          {
+            "productID": "arPVBMEjLPNG_95740999",
+            "__typename": "ConditionPromotionProduct"
+          },
+          {
+            "productID": "arPVBMEjLPNG_95740999",
+            "__typename": "ConditionPromotionProduct"
+          },
+          {
+            "productID": "y5KjXDGrjzX2_95741000",
+            "__typename": "ConditionPromotionProduct"
+          },
+          {
+            "productID": "y5KjXDGrjzX2_95741000",
+            "__typename": "ConditionPromotionProduct"
+          },
+          {
+            "productID": "OjPwjGWEZzl9_95741002",
+            "__typename": "ConditionPromotionProduct"
+          },
+          {
+            "productID": "OjPwjGWEZzl9_95741002",
+            "__typename": "ConditionPromotionProduct"
+          },
+          {
+            "productID": "jMKGwMNDvKYl_95741003",
+            "__typename": "ConditionPromotionProduct"
+          },
+          {
+            "productID": "jMKGwMNDvKYl_95741003",
+            "__typename": "ConditionPromotionProduct"
+          },
+          {
+            "productID": "lJKRDMk1kzGk_95741004",
+            "__typename": "ConditionPromotionProduct"
+          },
+          {
+            "productID": "lJKRDMk1kzGk_95741004",
+            "__typename": "ConditionPromotionProduct"
+          },
+          {
+            "productID": "XB6bob1L3z5A_95741005",
+            "__typename": "ConditionPromotionProduct"
+          },
+          {
+            "productID": "XB6bob1L3z5A_95741005",
+            "__typename": "ConditionPromotionProduct"
+          },
+          {
+            "productID": "rjK0R95lQzw1_95741006",
+            "__typename": "ConditionPromotionProduct"
+          },
+          {
+            "productID": "rjK0R95lQzw1_95741006",
+            "__typename": "ConditionPromotionProduct"
+          },
+          {
+            "productID": "AVPnoBnbbKyd_95741007",
+            "__typename": "ConditionPromotionProduct"
+          },
+          {
+            "productID": "AVPnoBnbbKyd_95741007",
+            "__typename": "ConditionPromotionProduct"
+          },
+          {
+            "productID": "nWKNOM4RR6jy_95741008",
+            "__typename": "ConditionPromotionProduct"
+          },
+          {
+            "productID": "nWKNOM4RR6jy_95741008",
+            "__typename": "ConditionPromotionProduct"
+          }
+        ],
+        "name": "Trải nghiệm 4 Combo Nguồn AIGO – Combo Linh Hoạt, Lợi Nhuận Tối Đa",
+        "status": "ON_GOING",
+        "startDate": "2025-08-14T17:00:00Z",
+        "endDate": "2025-08-25T16:59:59Z",
+        "banner": {
+          "id": "j0B7PYLRzEGd_364",
+          "mobileURL": "https://pixel.c-group.online/v1/file/1755074061-139.png",
+          "clickURL": null,
+          "imageURL": "https://pixel.c-group.online/v1/file/1755074061-433.png",
+          "__typename": "Banner"
+        },
+        "__typename": "PromotionCampaign"
+      }
+    ],
+    "campaigns": null,
+    "__typename": "ProductCollection",
+    "products": [
+      {
+        "id": "gOrD6BdAPW8E_61",
+        "mainItem": {
+          "productID": "mJK5O0XqJzaE_95738069",
+          "quantity": 1,
+          "productGroupID": "17OjPw3yPl9v_746",
+          "product": {
+            "name": "Tản nhiệt khí THERMALRIGHT Peerless Assassin 120 SE White ARGB",
+            "imageURLs": [
+              "https://pixel.c-group.online/v1/image/t_origin/1753079096-466.jpg",
+              "https://pixel.c-group.online/v1/image/t_origin/1753079096-448.jpg",
+              "https://pixel.c-group.online/v1/image/t_origin/1753079096-216.jpg",
+              "https://pixel.c-group.online/v1/image/t_origin/1753079096-470.jpg",
+              "https://pixel.c-group.online/v1/image/t_origin/1753079096-299.jpg"
+            ],
+            "priceOfProduct": {
+              "originalPrice": 755000,
+              "__typename": "PriceOfProduct"
+            },
+            "__typename": "SellerProduct"
+          },
+          "__typename": "ComboItem"
+        },
+        "comboItems": [
+          {
+            "productID": "196pQkmlNzdk_95738071",
+            "product": {
+              "name": "Tản nhiệt khí THERMALRIGHT Phantom Spirit 120 SE ARGB",
+              "imageURLs": [
+                "https://pixel.c-group.online/v1/image/t_origin/1753080009-633.jpg",
+                "https://pixel.c-group.online/v1/image/t_origin/1753080009-66.jpg",
+                "https://pixel.c-group.online/v1/image/t_origin/1753080009-906.jpg",
+                "https://pixel.c-group.online/v1/image/t_origin/1753080009-367.jpg",
+                "https://pixel.c-group.online/v1/image/t_origin/1753080009-1.jpg"
+              ],
+              "priceOfProduct": {
+                "originalPrice": 785000,
+                "__typename": "PriceOfProduct"
+              },
+              "__typename": "SellerProduct"
+            },
+            "productGroupID": "ZWjMKG3DKYl9_747",
+            "quantity": 1,
+            "__typename": "ComboItem"
+          }
+        ],
+        "discountType": "DISCOUNT_MONEY",
+        "discountAmount": 180000,
+        "price": "1.360.000đ",
+        "originalPrice": 1540000,
+        "minOrderQuantity": 1,
+        "discountTag": "Giảm đ180k",
+        "status": "AVAILABLE",
+        "tierID": "ranWKNQNPjyY_696",
+        "promotionID": "EQWmzOqpKavA_197",
+        "promotionTier": {
+          "type": "DISCOUNT_MONEY",
+          "id": "ranWKNQNPjyY_696",
+          "name": "Mua tối thiểu 1 combo được giảm 180.000đ/combo",
+          "minQuantity": 1,
+          "__typename": "PromotionCampaignTier"
+        },
+        "__typename": "PromotionCombo"
+      },
+      {
+        "id": "NAg0P7E56WOY_62",
+        "mainItem": {
+          "productID": "7O6qQYl8o6GM_95740958",
+          "quantity": 1,
+          "productGroupID": "eDlJKRrNKGk0_748",
+          "product": {
+            "name": "Tản nhiệt nước THERMALRIGHT AIO Frozen Infinity 360 Black",
+            "imageURLs": [
+              "https://pixel.c-group.online/v1/image/t_origin/1753081808-121.jpg",
+              "https://pixel.c-group.online/v1/image/t_origin/1753081808-207.jpg",
+              "https://pixel.c-group.online/v1/image/t_origin/1753081808-506.jpg",
+              "https://pixel.c-group.online/v1/image/t_origin/1753081809-477.jpg",
+              "https://pixel.c-group.online/v1/image/t_origin/1753081809-557.jpg"
+            ],
+            "priceOfProduct": {
+              "originalPrice": 1390000,
+              "__typename": "PriceOfProduct"
+            },
+            "__typename": "SellerProduct"
+          },
+          "__typename": "ComboItem"
+        },
+        "comboItems": [
+          {
+            "productID": "4JzmZW073PZj_95740959",
+            "product": {
+              "name": "Tản nhiệt nước THERMALRIGHT AIO Frozen Warframe 240 X Black",
+              "imageURLs": null,
+              "priceOfProduct": {
+                "originalPrice": 1290000,
+                "__typename": "PriceOfProduct"
+              },
+              "__typename": "SellerProduct"
+            },
+            "productGroupID": "VZXB6b2X65AO_749",
+            "quantity": 1,
+            "__typename": "ComboItem"
+          },
+          {
+            "productID": "Mm6W7MLaL6EY_95740960",
+            "product": {
+              "name": "Tản nhiệt nước THERMALRIGHT AIO Frozen Warframe 360 X Black",
+              "imageURLs": null,
+              "priceOfProduct": {
+                "originalPrice": 1540000,
+                "__typename": "PriceOfProduct"
+              },
+              "__typename": "SellerProduct"
+            },
+            "productGroupID": "qRrjK0n7zw1B_750",
+            "quantity": 1,
+            "__typename": "ComboItem"
+          },
+          {
+            "productID": "rD6B8kvBgPW8_95740961",
+            "product": {
+              "name": "Tản nhiệt nước THERMALRIGHT AIO Frozen Notte 240 Black ARGB V2",
+              "imageURLs": [
+                "https://pixel.c-group.online/v1/image/t_origin/1753081952-160.jpg",
+                "https://pixel.c-group.online/v1/image/t_origin/1753081954-510.jpg",
+                "https://pixel.c-group.online/v1/image/t_origin/1753081954-658.jpg",
+                "https://pixel.c-group.online/v1/image/t_origin/1753081954-942.jpg",
+                "https://pixel.c-group.online/v1/image/t_origin/1753081954-967.jpg"
+              ],
+              "priceOfProduct": {
+                "originalPrice": 1320000,
+                "__typename": "PriceOfProduct"
+              },
+              "__typename": "SellerProduct"
+            },
+            "productGroupID": "8WAVPn9Jzydw_751",
+            "quantity": 1,
+            "__typename": "ComboItem"
+          }
+        ],
+        "discountType": "DISCOUNT_MONEY",
+        "discountAmount": 900000,
+        "price": "4.640.000đ",
+        "originalPrice": 5540000,
+        "minOrderQuantity": 1,
+        "discountTag": "Giảm đ900k",
+        "status": "AVAILABLE",
+        "tierID": "EQWmzOQLKavA_697",
+        "promotionID": "EQWmzOqpKavA_197",
+        "promotionTier": {
+          "type": "DISCOUNT_MONEY",
+          "id": "EQWmzOQLKavA_697",
+          "name": "Mua tối thiểu 1 combo được giảm 900.000đ/combo",
+          "minQuantity": 1,
+          "__typename": "PromotionCampaignTier"
+        },
+        "__typename": "PromotionCombo"
+      },
+      {
+        "id": "eanVKkN5P1MA_63",
+        "mainItem": {
+          "productID": "g0P7VNZ00zWO_95740962",
+          "quantity": 1,
+          "productGroupID": "ranWKNkq6jyY_752",
+          "product": {
+            "name": "Tản nhiệt nước THERMALRIGHT AIO Frozen Notte 360 Black ARGB V2",
+            "imageURLs": [
+              "https://pixel.c-group.online/v1/image/t_origin/1753082128-161.jpg",
+              "https://pixel.c-group.online/v1/image/t_origin/1753082129-976.jpg",
+              "https://pixel.c-group.online/v1/image/t_origin/1753082129-619.jpg",
+              "https://pixel.c-group.online/v1/image/t_origin/1753082129-488.jpg",
+              "https://pixel.c-group.online/v1/image/t_origin/1753082129-715.jpg"
+            ],
+            "priceOfProduct": {
+              "originalPrice": 1800000,
+              "__typename": "PriceOfProduct"
+            },
+            "__typename": "SellerProduct"
+          },
+          "__typename": "ComboItem"
+        },
+        "comboItems": [
+          {
+            "productID": "nVKkoqRWxK1M_95740963",
+            "product": {
+              "name": "Tản nhiệt nước THERMALRIGHT AIO Hyper Vision 360 ARGB Black",
+              "imageURLs": [
+                "https://pixel.c-group.online/v1/image/t_origin/1753083225-100.jpg",
+                "https://pixel.c-group.online/v1/image/t_origin/1753083225-933.jpg",
+                "https://pixel.c-group.online/v1/image/t_origin/1753083225-256.jpg",
+                "https://pixel.c-group.online/v1/image/t_origin/1753083226-460.jpg",
+                "https://pixel.c-group.online/v1/image/t_origin/1753083226-696.jpg"
+              ],
+              "priceOfProduct": {
+                "originalPrice": 3180000,
+                "__typename": "PriceOfProduct"
+              },
+              "__typename": "SellerProduct"
+            },
+            "productGroupID": "EQWmzOAnKavA_753",
+            "quantity": 1,
+            "__typename": "ComboItem"
+          },
+          {
+            "productID": "B7PYYMo0WPEG_95740964",
+            "product": {
+              "name": "Tản nhiệt nước THERMALRIGHT AIO Frozen Vision 360 Black Argb V2",
+              "imageURLs": [
+                "https://pixel.c-group.online/v1/image/t_origin/1753082273-986.jpg",
+                "https://pixel.c-group.online/v1/image/t_origin/1753082275-996.jpg",
+                "https://pixel.c-group.online/v1/image/t_origin/1753082274-58.jpg",
+                "https://pixel.c-group.online/v1/image/t_origin/1753082274-893.jpg",
+                "https://pixel.c-group.online/v1/image/t_origin/1753082274-509.jpg"
+              ],
+              "priceOfProduct": {
+                "originalPrice": 2890000,
+                "__typename": "PriceOfProduct"
+              },
+              "__typename": "SellerProduct"
+            },
+            "productGroupID": "ALQkKl2YzeM0_754",
+            "quantity": 1,
+            "__typename": "ComboItem"
+          },
+          {
+            "productID": "aozgyljXDKNq_95740965",
+            "product": {
+              "name": "Tản nhiệt nước THERMALRIGHT AIO Frozen Vision 360 White Argb V2",
+              "imageURLs": [
+                "https://pixel.c-group.online/v1/image/t_origin/1753082516-757.jpg",
+                "https://pixel.c-group.online/v1/image/t_origin/1753082516-873.jpg",
+                "https://pixel.c-group.online/v1/image/t_origin/1753082516-59.jpg",
+                "https://pixel.c-group.online/v1/image/t_origin/1753082516-865.jpg",
+                "https://pixel.c-group.online/v1/image/t_origin/1753082517-617.jpg"
+              ],
+              "priceOfProduct": {
+                "originalPrice": 2890000,
+                "__typename": "PriceOfProduct"
+              },
+              "__typename": "SellerProduct"
+            },
+            "productGroupID": "nlarPV416NGe_755",
+            "quantity": 1,
+            "__typename": "ComboItem"
+          }
+        ],
+        "discountType": "DISCOUNT_MONEY",
+        "discountAmount": 2170000,
+        "price": "8.590.000đ",
+        "originalPrice": 10760000,
+        "minOrderQuantity": 1,
+        "discountTag": "Giảm đ2170k",
+        "status": "AVAILABLE",
+        "tierID": "ALQkKleg6eM0_698",
+        "promotionID": "EQWmzOqpKavA_197",
+        "promotionTier": {
+          "type": "DISCOUNT_MONEY",
+          "id": "ALQkKleg6eM0_698",
+          "name": "Mua tối thiểu 1 combo được giảm 2.170.000đ/combo",
+          "minQuantity": 1,
+          "__typename": "PromotionCampaignTier"
+        },
+        "__typename": "PromotionCombo"
+      },
+      {
+        "id": "j0B7PYZqKEGd_64",
+        "mainItem": {
+          "productID": "jkzEj80OBP50_95740967",
+          "quantity": 1,
+          "productGroupID": "jBxE63lQzkvq_756",
+          "product": {
+            "name": "Tản nhiệt nước THERMALRIGHT Wonder Vision 360 UB Argb Black",
+            "imageURLs": [
+              "https://pixel.c-group.online/v1/image/t_origin/1753083859-586.jpg",
+              "https://pixel.c-group.online/v1/image/t_origin/1753083860-417.jpg"
+            ],
+            "priceOfProduct": {
+              "originalPrice": 5100000,
+              "__typename": "PriceOfProduct"
+            },
+            "__typename": "SellerProduct"
+          },
+          "__typename": "ComboItem"
+        },
+        "comboItems": [
+          {
+            "productID": "LMzLnMDEAKQr_95740968",
+            "product": {
+              "name": "Tản nhiệt nước THERMALRIGHT Wonder Vision 360 UB Argb White",
+              "imageURLs": [
+                "https://pixel.c-group.online/v1/image/t_origin/1753084204-750.jpg",
+                "https://pixel.c-group.online/v1/image/t_origin/1753084204-952.jpg"
+              ],
+              "priceOfProduct": {
+                "originalPrice": 5100000,
+                "__typename": "PriceOfProduct"
+              },
+              "__typename": "SellerProduct"
+            },
+            "productGroupID": "BrdmPDARKAX5_757",
+            "quantity": 1,
+            "__typename": "ComboItem"
+          }
+        ],
+        "discountType": "DISCOUNT_MONEY",
+        "discountAmount": 1610000,
+        "price": "8.590.000đ",
+        "originalPrice": 10200000,
+        "minOrderQuantity": 1,
+        "discountTag": "Giảm đ1610k",
+        "status": "AVAILABLE",
+        "tierID": "nlarPVRyPNGe_699",
+        "promotionID": "EQWmzOqpKavA_197",
+        "promotionTier": {
+          "type": "DISCOUNT_MONEY",
+          "id": "nlarPVRyPNGe_699",
+          "name": "Mua tối thiểu 1 combo được giảm 1.610.000đ/combo",
+          "minQuantity": 1,
+          "__typename": "PromotionCampaignTier"
+        },
+        "__typename": "PromotionCombo"
+      }
+    ]
+  },
+  "popular_for_you": {
+    "id": "ALQkKlQ6eM09_10",
+    "name": "Combo deal độc quyền",
+    "description": null,
+    "iconURL": "https://pixel.c-group.online/v1/image/t_origin/1737013130-613.png",
+    "backgroundColor": null,
+    "titleColor": "#FFFFFF",
+    "navigateListButtonColor": "#FFFFFF",
+    "backgroundImageURL": "https://pixel.c-group.online/v1/image/t_origin/1737081923-46.png",
+    "displayType": "SLIDE",
+    "type": "COMBO_PROMOTION",
+    "canDisplay": true,
+    "promotions": [
+      {
+        "id": "EQWmzOqpKavA_197",
+        "conditionPromotionProducts": [
+          {
+            "productID": "mJK5O0XqJzaE_95738069",
+            "__typename": "ConditionPromotionProduct"
+          },
+          {
+            "productID": "196pQkmlNzdk_95738071",
+            "__typename": "ConditionPromotionProduct"
+          },
+          {
+            "productID": "7O6qQYl8o6GM_95740958",
+            "__typename": "ConditionPromotionProduct"
+          },
+          {
+            "productID": "4JzmZW073PZj_95740959",
+            "__typename": "ConditionPromotionProduct"
+          },
+          {
+            "productID": "Mm6W7MLaL6EY_95740960",
+            "__typename": "ConditionPromotionProduct"
+          },
+          {
+            "productID": "rD6B8kvBgPW8_95740961",
+            "__typename": "ConditionPromotionProduct"
+          },
+          {
+            "productID": "g0P7VNZ00zWO_95740962",
+            "__typename": "ConditionPromotionProduct"
+          },
+          {
+            "productID": "nVKkoqRWxK1M_95740963",
+            "__typename": "ConditionPromotionProduct"
+          },
+          {
+            "productID": "B7PYYMo0WPEG_95740964",
+            "__typename": "ConditionPromotionProduct"
+          },
+          {
+            "productID": "aozgyljXDKNq_95740965",
+            "__typename": "ConditionPromotionProduct"
+          },
+          {
+            "productID": "jkzEj80OBP50_95740967",
+            "__typename": "ConditionPromotionProduct"
+          },
+          {
+            "productID": "LMzLnMDEAKQr_95740968",
+            "__typename": "ConditionPromotionProduct"
+          }
+        ],
+        "name": "🔥 TRẢI NGHIỆM TẢN NHIỆT THERMALRIGHT - COMBO QUỐC DÂN VỚI GIÁ TẬN GỐC 🔥",
+        "status": "ON_GOING",
+        "startDate": "2025-08-14T17:00:01Z",
+        "endDate": "2025-08-25T16:59:59Z",
+        "banner": {
+          "id": "eanVKkZGP1MA_363",
+          "mobileURL": "https://pixel.c-group.online/v1/file/1755061576-860.png",
+          "clickURL": null,
+          "imageURL": "https://pixel.c-group.online/v1/file/1755061575-465.png",
+          "__typename": "Banner"
+        },
+        "__typename": "PromotionCampaign"
+      },
+      {
+        "id": "4a15K9JD6rdv_201",
+        "conditionPromotionProducts": [
+          {
+            "productID": "arPVBMEjLPNG_95740999",
+            "__typename": "ConditionPromotionProduct"
+          },
+          {
+            "productID": "arPVBMEjLPNG_95740999",
+            "__typename": "ConditionPromotionProduct"
+          },
+          {
+            "productID": "y5KjXDGrjzX2_95741000",
+            "__typename": "ConditionPromotionProduct"
+          },
+          {
+            "productID": "y5KjXDGrjzX2_95741000",
+            "__typename": "ConditionPromotionProduct"
+          },
+          {
+            "productID": "OjPwjGWEZzl9_95741002",
+            "__typename": "ConditionPromotionProduct"
+          },
+          {
+            "productID": "OjPwjGWEZzl9_95741002",
+            "__typename": "ConditionPromotionProduct"
+          },
+          {
+            "productID": "jMKGwMNDvKYl_95741003",
+            "__typename": "ConditionPromotionProduct"
+          },
+          {
+            "productID": "jMKGwMNDvKYl_95741003",
+            "__typename": "ConditionPromotionProduct"
+          },
+          {
+            "productID": "lJKRDMk1kzGk_95741004",
+            "__typename": "ConditionPromotionProduct"
+          },
+          {
+            "productID": "lJKRDMk1kzGk_95741004",
+            "__typename": "ConditionPromotionProduct"
+          },
+          {
+            "productID": "XB6bob1L3z5A_95741005",
+            "__typename": "ConditionPromotionProduct"
+          },
+          {
+            "productID": "XB6bob1L3z5A_95741005",
+            "__typename": "ConditionPromotionProduct"
+          },
+          {
+            "productID": "rjK0R95lQzw1_95741006",
+            "__typename": "ConditionPromotionProduct"
+          },
+          {
+            "productID": "rjK0R95lQzw1_95741006",
+            "__typename": "ConditionPromotionProduct"
+          },
+          {
+            "productID": "AVPnoBnbbKyd_95741007",
+            "__typename": "ConditionPromotionProduct"
+          },
+          {
+            "productID": "AVPnoBnbbKyd_95741007",
+            "__typename": "ConditionPromotionProduct"
+          },
+          {
+            "productID": "nWKNOM4RR6jy_95741008",
+            "__typename": "ConditionPromotionProduct"
+          },
+          {
+            "productID": "nWKNOM4RR6jy_95741008",
+            "__typename": "ConditionPromotionProduct"
+          }
+        ],
+        "name": "Trải nghiệm 4 Combo Nguồn AIGO – Combo Linh Hoạt, Lợi Nhuận Tối Đa",
+        "status": "ON_GOING",
+        "startDate": "2025-08-14T17:00:00Z",
+        "endDate": "2025-08-25T16:59:59Z",
+        "banner": {
+          "id": "j0B7PYLRzEGd_364",
+          "mobileURL": "https://pixel.c-group.online/v1/file/1755074061-139.png",
+          "clickURL": null,
+          "imageURL": "https://pixel.c-group.online/v1/file/1755074061-433.png",
+          "__typename": "Banner"
+        },
+        "__typename": "PromotionCampaign"
+      }
+    ],
+    "campaigns": null,
+    "__typename": "ProductCollection",
+    "products": [
+      {
+        "id": "gOrD6BdAPW8E_61",
+        "mainItem": {
+          "productID": "mJK5O0XqJzaE_95738069",
+          "quantity": 1,
+          "productGroupID": "17OjPw3yPl9v_746",
+          "product": {
+            "name": "Tản nhiệt khí THERMALRIGHT Peerless Assassin 120 SE White ARGB",
+            "imageURLs": [
+              "https://pixel.c-group.online/v1/image/t_origin/1753079096-466.jpg",
+              "https://pixel.c-group.online/v1/image/t_origin/1753079096-448.jpg",
+              "https://pixel.c-group.online/v1/image/t_origin/1753079096-216.jpg",
+              "https://pixel.c-group.online/v1/image/t_origin/1753079096-470.jpg",
+              "https://pixel.c-group.online/v1/image/t_origin/1753079096-299.jpg"
+            ],
+            "priceOfProduct": {
+              "originalPrice": 755000,
+              "__typename": "PriceOfProduct"
+            },
+            "__typename": "SellerProduct"
+          },
+          "__typename": "ComboItem"
+        },
+        "comboItems": [
+          {
+            "productID": "196pQkmlNzdk_95738071",
+            "product": {
+              "name": "Tản nhiệt khí THERMALRIGHT Phantom Spirit 120 SE ARGB",
+              "imageURLs": [
+                "https://pixel.c-group.online/v1/image/t_origin/1753080009-633.jpg",
+                "https://pixel.c-group.online/v1/image/t_origin/1753080009-66.jpg",
+                "https://pixel.c-group.online/v1/image/t_origin/1753080009-906.jpg",
+                "https://pixel.c-group.online/v1/image/t_origin/1753080009-367.jpg",
+                "https://pixel.c-group.online/v1/image/t_origin/1753080009-1.jpg"
+              ],
+              "priceOfProduct": {
+                "originalPrice": 785000,
+                "__typename": "PriceOfProduct"
+              },
+              "__typename": "SellerProduct"
+            },
+            "productGroupID": "ZWjMKG3DKYl9_747",
+            "quantity": 1,
+            "__typename": "ComboItem"
+          }
+        ],
+        "discountType": "DISCOUNT_MONEY",
+        "discountAmount": 180000,
+        "price": "1.360.000đ",
+        "originalPrice": 1540000,
+        "minOrderQuantity": 1,
+        "discountTag": "Giảm đ180k",
+        "status": "AVAILABLE",
+        "tierID": "ranWKNQNPjyY_696",
+        "promotionID": "EQWmzOqpKavA_197",
+        "promotionTier": {
+          "type": "DISCOUNT_MONEY",
+          "id": "ranWKNQNPjyY_696",
+          "name": "Mua tối thiểu 1 combo được giảm 180.000đ/combo",
+          "minQuantity": 1,
+          "__typename": "PromotionCampaignTier"
+        },
+        "__typename": "PromotionCombo"
+      },
+      {
+        "id": "NAg0P7E56WOY_62",
+        "mainItem": {
+          "productID": "7O6qQYl8o6GM_95740958",
+          "quantity": 1,
+          "productGroupID": "eDlJKRrNKGk0_748",
+          "product": {
+            "name": "Tản nhiệt nước THERMALRIGHT AIO Frozen Infinity 360 Black",
+            "imageURLs": [
+              "https://pixel.c-group.online/v1/image/t_origin/1753081808-121.jpg",
+              "https://pixel.c-group.online/v1/image/t_origin/1753081808-207.jpg",
+              "https://pixel.c-group.online/v1/image/t_origin/1753081808-506.jpg",
+              "https://pixel.c-group.online/v1/image/t_origin/1753081809-477.jpg",
+              "https://pixel.c-group.online/v1/image/t_origin/1753081809-557.jpg"
+            ],
+            "priceOfProduct": {
+              "originalPrice": 1390000,
+              "__typename": "PriceOfProduct"
+            },
+            "__typename": "SellerProduct"
+          },
+          "__typename": "ComboItem"
+        },
+        "comboItems": [
+          {
+            "productID": "4JzmZW073PZj_95740959",
+            "product": {
+              "name": "Tản nhiệt nước THERMALRIGHT AIO Frozen Warframe 240 X Black",
+              "imageURLs": null,
+              "priceOfProduct": {
+                "originalPrice": 1290000,
+                "__typename": "PriceOfProduct"
+              },
+              "__typename": "SellerProduct"
+            },
+            "productGroupID": "VZXB6b2X65AO_749",
+            "quantity": 1,
+            "__typename": "ComboItem"
+          },
+          {
+            "productID": "Mm6W7MLaL6EY_95740960",
+            "product": {
+              "name": "Tản nhiệt nước THERMALRIGHT AIO Frozen Warframe 360 X Black",
+              "imageURLs": null,
+              "priceOfProduct": {
+                "originalPrice": 1540000,
+                "__typename": "PriceOfProduct"
+              },
+              "__typename": "SellerProduct"
+            },
+            "productGroupID": "qRrjK0n7zw1B_750",
+            "quantity": 1,
+            "__typename": "ComboItem"
+          },
+          {
+            "productID": "rD6B8kvBgPW8_95740961",
+            "product": {
+              "name": "Tản nhiệt nước THERMALRIGHT AIO Frozen Notte 240 Black ARGB V2",
+              "imageURLs": [
+                "https://pixel.c-group.online/v1/image/t_origin/1753081952-160.jpg",
+                "https://pixel.c-group.online/v1/image/t_origin/1753081954-510.jpg",
+                "https://pixel.c-group.online/v1/image/t_origin/1753081954-658.jpg",
+                "https://pixel.c-group.online/v1/image/t_origin/1753081954-942.jpg",
+                "https://pixel.c-group.online/v1/image/t_origin/1753081954-967.jpg"
+              ],
+              "priceOfProduct": {
+                "originalPrice": 1320000,
+                "__typename": "PriceOfProduct"
+              },
+              "__typename": "SellerProduct"
+            },
+            "productGroupID": "8WAVPn9Jzydw_751",
+            "quantity": 1,
+            "__typename": "ComboItem"
+          }
+        ],
+        "discountType": "DISCOUNT_MONEY",
+        "discountAmount": 900000,
+        "price": "4.640.000đ",
+        "originalPrice": 5540000,
+        "minOrderQuantity": 1,
+        "discountTag": "Giảm đ900k",
+        "status": "AVAILABLE",
+        "tierID": "EQWmzOQLKavA_697",
+        "promotionID": "EQWmzOqpKavA_197",
+        "promotionTier": {
+          "type": "DISCOUNT_MONEY",
+          "id": "EQWmzOQLKavA_697",
+          "name": "Mua tối thiểu 1 combo được giảm 900.000đ/combo",
+          "minQuantity": 1,
+          "__typename": "PromotionCampaignTier"
+        },
+        "__typename": "PromotionCombo"
+      },
+      {
+        "id": "eanVKkN5P1MA_63",
+        "mainItem": {
+          "productID": "g0P7VNZ00zWO_95740962",
+          "quantity": 1,
+          "productGroupID": "ranWKNkq6jyY_752",
+          "product": {
+            "name": "Tản nhiệt nước THERMALRIGHT AIO Frozen Notte 360 Black ARGB V2",
+            "imageURLs": [
+              "https://pixel.c-group.online/v1/image/t_origin/1753082128-161.jpg",
+              "https://pixel.c-group.online/v1/image/t_origin/1753082129-976.jpg",
+              "https://pixel.c-group.online/v1/image/t_origin/1753082129-619.jpg",
+              "https://pixel.c-group.online/v1/image/t_origin/1753082129-488.jpg",
+              "https://pixel.c-group.online/v1/image/t_origin/1753082129-715.jpg"
+            ],
+            "priceOfProduct": {
+              "originalPrice": 1800000,
+              "__typename": "PriceOfProduct"
+            },
+            "__typename": "SellerProduct"
+          },
+          "__typename": "ComboItem"
+        },
+        "comboItems": [
+          {
+            "productID": "nVKkoqRWxK1M_95740963",
+            "product": {
+              "name": "Tản nhiệt nước THERMALRIGHT AIO Hyper Vision 360 ARGB Black",
+              "imageURLs": [
+                "https://pixel.c-group.online/v1/image/t_origin/1753083225-100.jpg",
+                "https://pixel.c-group.online/v1/image/t_origin/1753083225-933.jpg",
+                "https://pixel.c-group.online/v1/image/t_origin/1753083225-256.jpg",
+                "https://pixel.c-group.online/v1/image/t_origin/1753083226-460.jpg",
+                "https://pixel.c-group.online/v1/image/t_origin/1753083226-696.jpg"
+              ],
+              "priceOfProduct": {
+                "originalPrice": 3180000,
+                "__typename": "PriceOfProduct"
+              },
+              "__typename": "SellerProduct"
+            },
+            "productGroupID": "EQWmzOAnKavA_753",
+            "quantity": 1,
+            "__typename": "ComboItem"
+          },
+          {
+            "productID": "B7PYYMo0WPEG_95740964",
+            "product": {
+              "name": "Tản nhiệt nước THERMALRIGHT AIO Frozen Vision 360 Black Argb V2",
+              "imageURLs": [
+                "https://pixel.c-group.online/v1/image/t_origin/1753082273-986.jpg",
+                "https://pixel.c-group.online/v1/image/t_origin/1753082275-996.jpg",
+                "https://pixel.c-group.online/v1/image/t_origin/1753082274-58.jpg",
+                "https://pixel.c-group.online/v1/image/t_origin/1753082274-893.jpg",
+                "https://pixel.c-group.online/v1/image/t_origin/1753082274-509.jpg"
+              ],
+              "priceOfProduct": {
+                "originalPrice": 2890000,
+                "__typename": "PriceOfProduct"
+              },
+              "__typename": "SellerProduct"
+            },
+            "productGroupID": "ALQkKl2YzeM0_754",
+            "quantity": 1,
+            "__typename": "ComboItem"
+          },
+          {
+            "productID": "aozgyljXDKNq_95740965",
+            "product": {
+              "name": "Tản nhiệt nước THERMALRIGHT AIO Frozen Vision 360 White Argb V2",
+              "imageURLs": [
+                "https://pixel.c-group.online/v1/image/t_origin/1753082516-757.jpg",
+                "https://pixel.c-group.online/v1/image/t_origin/1753082516-873.jpg",
+                "https://pixel.c-group.online/v1/image/t_origin/1753082516-59.jpg",
+                "https://pixel.c-group.online/v1/image/t_origin/1753082516-865.jpg",
+                "https://pixel.c-group.online/v1/image/t_origin/1753082517-617.jpg"
+              ],
+              "priceOfProduct": {
+                "originalPrice": 2890000,
+                "__typename": "PriceOfProduct"
+              },
+              "__typename": "SellerProduct"
+            },
+            "productGroupID": "nlarPV416NGe_755",
+            "quantity": 1,
+            "__typename": "ComboItem"
+          }
+        ],
+        "discountType": "DISCOUNT_MONEY",
+        "discountAmount": 2170000,
+        "price": "8.590.000đ",
+        "originalPrice": 10760000,
+        "minOrderQuantity": 1,
+        "discountTag": "Giảm đ2170k",
+        "status": "AVAILABLE",
+        "tierID": "ALQkKleg6eM0_698",
+        "promotionID": "EQWmzOqpKavA_197",
+        "promotionTier": {
+          "type": "DISCOUNT_MONEY",
+          "id": "ALQkKleg6eM0_698",
+          "name": "Mua tối thiểu 1 combo được giảm 2.170.000đ/combo",
+          "minQuantity": 1,
+          "__typename": "PromotionCampaignTier"
+        },
+        "__typename": "PromotionCombo"
+      },
+      {
+        "id": "j0B7PYZqKEGd_64",
+        "mainItem": {
+          "productID": "jkzEj80OBP50_95740967",
+          "quantity": 1,
+          "productGroupID": "jBxE63lQzkvq_756",
+          "product": {
+            "name": "Tản nhiệt nước THERMALRIGHT Wonder Vision 360 UB Argb Black",
+            "imageURLs": [
+              "https://pixel.c-group.online/v1/image/t_origin/1753083859-586.jpg",
+              "https://pixel.c-group.online/v1/image/t_origin/1753083860-417.jpg"
+            ],
+            "priceOfProduct": {
+              "originalPrice": 5100000,
+              "__typename": "PriceOfProduct"
+            },
+            "__typename": "SellerProduct"
+          },
+          "__typename": "ComboItem"
+        },
+        "comboItems": [
+          {
+            "productID": "LMzLnMDEAKQr_95740968",
+            "product": {
+              "name": "Tản nhiệt nước THERMALRIGHT Wonder Vision 360 UB Argb White",
+              "imageURLs": [
+                "https://pixel.c-group.online/v1/image/t_origin/1753084204-750.jpg",
+                "https://pixel.c-group.online/v1/image/t_origin/1753084204-952.jpg"
+              ],
+              "priceOfProduct": {
+                "originalPrice": 5100000,
+                "__typename": "PriceOfProduct"
+              },
+              "__typename": "SellerProduct"
+            },
+            "productGroupID": "BrdmPDARKAX5_757",
+            "quantity": 1,
+            "__typename": "ComboItem"
+          }
+        ],
+        "discountType": "DISCOUNT_MONEY",
+        "discountAmount": 1610000,
+        "price": "8.590.000đ",
+        "originalPrice": 10200000,
+        "minOrderQuantity": 1,
+        "discountTag": "Giảm đ1610k",
+        "status": "AVAILABLE",
+        "tierID": "nlarPVRyPNGe_699",
+        "promotionID": "EQWmzOqpKavA_197",
+        "promotionTier": {
+          "type": "DISCOUNT_MONEY",
+          "id": "nlarPVRyPNGe_699",
+          "name": "Mua tối thiểu 1 combo được giảm 1.610.000đ/combo",
+          "minQuantity": 1,
+          "__typename": "PromotionCampaignTier"
+        },
+        "__typename": "PromotionCombo"
+      }
+    ]
+  },
+  "product_promotion": {
+    "id": "ranWKNLzjyY1_8",
+    "name": "Chương trình khuyến mãi",
+    "description": null,
+    "iconURL": "https://pixel.c-group.online/v1/file/1715575682-326.png",
+    "backgroundColor": null,
+    "titleColor": "#FFFFFF",
+    "navigateListButtonColor": "#FFFFFF",
+    "backgroundImageURL": "https://pixel.c-group.online/v1/file/1715575640-774.png",
+    "displayType": "SLIDE",
+    "type": "PRODUCT_PROMOTION",
+    "canDisplay": false,
+    "promotions": null,
+    "campaigns": null,
+    "__typename": "ProductCollection",
+    "products": [
+      {
+        "minOrderQuantity": 1,
+        "fulfillmentMode": "IN_STOCK",
+        "vatType": "REQUIRED",
+        "tag": {
+          "topTag": "IN_STOCK",
+          "__typename": "CardSellerProductTag"
+        },
+        "priceDrop": null,
+        "uom": {
+          "id": "eDlJKRo6Gk0v_4",
+          "name": "Cái",
+          "code": "",
+          "__typename": "Uom"
+        },
+        "id": "nWKNOM4RR6jy_95741008",
+        "name": "Nguồn máy tính AIGO CK650X PRO 650W 85+",
+        "vat": false,
+        "thumbnail": "https://pixel.c-group.online/v1/image/t_origin/1755166888-129.jpg",
+        "price": 645000,
+        "stockStatus": "FULL",
+        "inCartQuantity": 0,
+        "code": "CP012814",
+        "isSellable": true,
+        "canSellWithoutStock": false,
+        "brand": {
+          "id": "RrjK0oLnNPw1_114994",
+          "name": "AIGO",
+          "logoURL": null,
+          "__typename": "Brand"
+        },
+        "promotionProducts": [
+          {
+            "productID": "nWKNOM4RR6jy_95741008",
+            "promotionCampaignTier": {
+              "id": "ZWjMKG4D6Yl9_703",
+              "name": "Mua tối thiểu 1 combo được giảm 340.000đ/combo",
+              "type": "DISCOUNT_MONEY",
+              "__typename": "PromotionCampaignTier"
+            },
+            "__typename": "ConditionPromotionProduct"
+          },
+          {
+            "productID": "nWKNOM4RR6jy_95741008",
+            "promotionCampaignTier": {
+              "id": "VZXB6bxXP5AO_705",
+              "name": "Mua tối thiểu 1 combo được giảm 135.000đ/combo",
+              "type": "DISCOUNT_MONEY",
+              "__typename": "PromotionCampaignTier"
+            },
+            "__typename": "ConditionPromotionProduct"
+          }
+        ],
+        "currentPriceBidSession": null,
+        "productDiscounts": [
+          {
+            "productID": "nWKNOM4RR6jy_95741008",
+            "minQuantity": 10,
+            "maxQuantity": null,
+            "discountAmount": 10000,
+            "isSelected": false,
+            "priceAfterDiscount": 635000,
+            "totalDiscountMoney": 0,
+            "__typename": "SellerProductDiscount"
+          }
+        ],
+        "collectionID": "ranWKNLzjyY1_8",
+        "priceOfProduct": {
+          "price": 645000,
+          "originalPrice": 645000,
+          "appliedDiscountProductTier": null,
+          "upComingPromotionNotify": null,
+          "currentComboCartItem": null,
+          "outOfStock": false,
+          "outOfUsage": false,
+          "__typename": "PriceOfProduct"
+        },
+        "__typename": "SellerProduct"
+      },
+      {
+        "minOrderQuantity": 1,
+        "fulfillmentMode": "IN_STOCK",
+        "vatType": "REQUIRED",
+        "tag": {
+          "topTag": "IN_STOCK",
+          "__typename": "CardSellerProductTag"
+        },
+        "priceDrop": null,
+        "uom": {
+          "id": "eDlJKRo6Gk0v_4",
+          "name": "Cái",
+          "code": "",
+          "__typename": "Uom"
+        },
+        "id": "AVPnoBnbbKyd_95741007",
+        "name": "Nguồn máy tính AIGO CK650 PRO 650W 85",
+        "vat": false,
+        "thumbnail": "https://pixel.c-group.online/v1/image/t_origin/1755166970-378.jpg",
+        "price": 570000,
+        "stockStatus": "FULL",
+        "inCartQuantity": 0,
+        "code": "CP012813",
+        "isSellable": true,
+        "canSellWithoutStock": false,
+        "brand": {
+          "id": "RrjK0oLnNPw1_114994",
+          "name": "AIGO",
+          "logoURL": null,
+          "__typename": "Brand"
+        },
+        "promotionProducts": [
+          {
+            "productID": "AVPnoBnbbKyd_95741007",
+            "promotionCampaignTier": {
+              "id": "ZWjMKG4D6Yl9_703",
+              "name": "Mua tối thiểu 1 combo được giảm 340.000đ/combo",
+              "type": "DISCOUNT_MONEY",
+              "__typename": "PromotionCampaignTier"
+            },
+            "__typename": "ConditionPromotionProduct"
+          },
+          {
+            "productID": "AVPnoBnbbKyd_95741007",
+            "promotionCampaignTier": {
+              "id": "VZXB6bxXP5AO_705",
+              "name": "Mua tối thiểu 1 combo được giảm 135.000đ/combo",
+              "type": "DISCOUNT_MONEY",
+              "__typename": "PromotionCampaignTier"
+            },
+            "__typename": "ConditionPromotionProduct"
+          }
+        ],
+        "currentPriceBidSession": null,
+        "productDiscounts": [
+          {
+            "productID": "AVPnoBnbbKyd_95741007",
+            "minQuantity": 10,
+            "maxQuantity": null,
+            "discountAmount": 10000,
+            "isSelected": false,
+            "priceAfterDiscount": 560000,
+            "totalDiscountMoney": 0,
+            "__typename": "SellerProductDiscount"
+          }
+        ],
+        "collectionID": "ranWKNLzjyY1_8",
+        "priceOfProduct": {
+          "price": 570000,
+          "originalPrice": 570000,
+          "appliedDiscountProductTier": null,
+          "upComingPromotionNotify": null,
+          "currentComboCartItem": null,
+          "outOfStock": false,
+          "outOfUsage": false,
+          "__typename": "PriceOfProduct"
+        },
+        "__typename": "SellerProduct"
+      },
+      {
+        "minOrderQuantity": 1,
+        "fulfillmentMode": "IN_STOCK",
+        "vatType": "REQUIRED",
+        "tag": {
+          "topTag": "IN_STOCK",
+          "__typename": "CardSellerProductTag"
+        },
+        "priceDrop": null,
+        "uom": {
+          "id": "eDlJKRo6Gk0v_4",
+          "name": "Cái",
+          "code": "",
+          "__typename": "Uom"
+        },
+        "id": "rjK0R95lQzw1_95741006",
+        "name": "Nguồn máy tính AIGO CK650 650W",
+        "vat": false,
+        "thumbnail": "https://pixel.c-group.online/v1/image/t_origin/1755166758-942.jpg",
+        "price": 540000,
+        "stockStatus": "FULL",
+        "inCartQuantity": 0,
+        "code": "CP012812",
+        "isSellable": true,
+        "canSellWithoutStock": false,
+        "brand": {
+          "id": "RrjK0oLnNPw1_114994",
+          "name": "AIGO",
+          "logoURL": null,
+          "__typename": "Brand"
+        },
+        "promotionProducts": [
+          {
+            "productID": "rjK0R95lQzw1_95741006",
+            "promotionCampaignTier": {
+              "id": "ZWjMKG4D6Yl9_703",
+              "name": "Mua tối thiểu 1 combo được giảm 340.000đ/combo",
+              "type": "DISCOUNT_MONEY",
+              "__typename": "PromotionCampaignTier"
+            },
+            "__typename": "ConditionPromotionProduct"
+          },
+          {
+            "productID": "rjK0R95lQzw1_95741006",
+            "promotionCampaignTier": {
+              "id": "eDlJKRBNKGk0_704",
+              "name": "Mua tối thiểu 1 combo được giảm 165.000đ/combo",
+              "type": "DISCOUNT_MONEY",
+              "__typename": "PromotionCampaignTier"
+            },
+            "__typename": "ConditionPromotionProduct"
+          }
+        ],
+        "currentPriceBidSession": null,
+        "productDiscounts": [
+          {
+            "productID": "rjK0R95lQzw1_95741006",
+            "minQuantity": 10,
+            "maxQuantity": null,
+            "discountAmount": 10000,
+            "isSelected": false,
+            "priceAfterDiscount": 530000,
+            "totalDiscountMoney": 0,
+            "__typename": "SellerProductDiscount"
+          }
+        ],
+        "collectionID": "ranWKNLzjyY1_8",
+        "priceOfProduct": {
+          "price": 540000,
+          "originalPrice": 540000,
+          "appliedDiscountProductTier": null,
+          "upComingPromotionNotify": null,
+          "currentComboCartItem": null,
+          "outOfStock": false,
+          "outOfUsage": false,
+          "__typename": "PriceOfProduct"
+        },
+        "__typename": "SellerProduct"
+      },
+      {
+        "minOrderQuantity": 1,
+        "fulfillmentMode": "IN_STOCK",
+        "vatType": "REQUIRED",
+        "tag": {
+          "topTag": "IN_STOCK",
+          "__typename": "CardSellerProductTag"
+        },
+        "priceDrop": null,
+        "uom": {
+          "id": "eDlJKRo6Gk0v_4",
+          "name": "Cái",
+          "code": "",
+          "__typename": "Uom"
+        },
+        "id": "lJKRDMk1kzGk_95741004",
+        "name": "Nguồn máy tính AIGO CK550 550W",
+        "vat": false,
+        "thumbnail": "https://pixel.c-group.online/v1/image/t_origin/1755166660-406.jpg",
+        "price": 455000,
+        "stockStatus": "FULL",
+        "inCartQuantity": 0,
+        "code": "CP012810",
+        "isSellable": true,
+        "canSellWithoutStock": false,
+        "brand": {
+          "id": "RrjK0oLnNPw1_114994",
+          "name": "AIGO",
+          "logoURL": null,
+          "__typename": "Brand"
+        },
+        "promotionProducts": [
+          {
+            "productID": "lJKRDMk1kzGk_95741004",
+            "promotionCampaignTier": {
+              "id": "ZWjMKG4D6Yl9_703",
+              "name": "Mua tối thiểu 1 combo được giảm 340.000đ/combo",
+              "type": "DISCOUNT_MONEY",
+              "__typename": "PromotionCampaignTier"
+            },
+            "__typename": "ConditionPromotionProduct"
+          },
+          {
+            "productID": "lJKRDMk1kzGk_95741004",
+            "promotionCampaignTier": {
+              "id": "eDlJKRBNKGk0_704",
+              "name": "Mua tối thiểu 1 combo được giảm 165.000đ/combo",
+              "type": "DISCOUNT_MONEY",
+              "__typename": "PromotionCampaignTier"
+            },
+            "__typename": "ConditionPromotionProduct"
+          }
+        ],
+        "currentPriceBidSession": null,
+        "productDiscounts": [
+          {
+            "productID": "lJKRDMk1kzGk_95741004",
+            "minQuantity": 10,
+            "maxQuantity": null,
+            "discountAmount": 10000,
+            "isSelected": false,
+            "priceAfterDiscount": 445000,
+            "totalDiscountMoney": 0,
+            "__typename": "SellerProductDiscount"
+          }
+        ],
+        "collectionID": "ranWKNLzjyY1_8",
+        "priceOfProduct": {
+          "price": 455000,
+          "originalPrice": 455000,
+          "appliedDiscountProductTier": null,
+          "upComingPromotionNotify": null,
+          "currentComboCartItem": null,
+          "outOfStock": false,
+          "outOfUsage": false,
+          "__typename": "PriceOfProduct"
+        },
+        "__typename": "SellerProduct"
+      },
+      {
+        "minOrderQuantity": 1,
+        "fulfillmentMode": "IN_STOCK",
+        "vatType": "REQUIRED",
+        "tag": {
+          "topTag": "IN_STOCK",
+          "__typename": "CardSellerProductTag"
+        },
+        "priceDrop": null,
+        "uom": {
+          "id": "qRrjK0jzw1B9_6",
+          "name": "Chiếc",
+          "code": "",
+          "__typename": "Uom"
+        },
+        "id": "jkzEj80OBP50_95740967",
+        "name": "Tản nhiệt nước THERMALRIGHT Wonder Vision 360 UB Argb Black",
+        "vat": false,
+        "thumbnail": "https://pixel.c-group.online/v1/image/t_origin/1753083859-586.jpg",
+        "price": 5100000,
+        "stockStatus": "FULL",
+        "inCartQuantity": 0,
+        "code": "CP012773",
+        "isSellable": true,
+        "canSellWithoutStock": false,
+        "brand": {
+          "id": "wy5Kj7xb6X2j_4600",
+          "name": "THERMALRIGHT",
+          "logoURL": null,
+          "__typename": "Brand"
+        },
+        "promotionProducts": [
+          {
+            "productID": "jkzEj80OBP50_95740967",
+            "promotionCampaignTier": {
+              "id": "nlarPVRyPNGe_699",
+              "name": "Mua tối thiểu 1 combo được giảm 1.610.000đ/combo",
+              "type": "DISCOUNT_MONEY",
+              "__typename": "PromotionCampaignTier"
+            },
+            "__typename": "ConditionPromotionProduct"
+          }
+        ],
+        "currentPriceBidSession": null,
+        "productDiscounts": [
+          {
+            "productID": "jkzEj80OBP50_95740967",
+            "minQuantity": 10,
+            "maxQuantity": 19,
+            "discountAmount": 40000,
+            "isSelected": false,
+            "priceAfterDiscount": 5060000,
+            "totalDiscountMoney": 0,
+            "__typename": "SellerProductDiscount"
+          },
+          {
+            "productID": "jkzEj80OBP50_95740967",
+            "minQuantity": 20,
+            "maxQuantity": null,
+            "discountAmount": 70000,
+            "isSelected": false,
+            "priceAfterDiscount": 5030000,
+            "totalDiscountMoney": 0,
+            "__typename": "SellerProductDiscount"
+          }
+        ],
+        "collectionID": "ranWKNLzjyY1_8",
+        "priceOfProduct": {
+          "price": 5100000,
+          "originalPrice": 5100000,
+          "appliedDiscountProductTier": null,
+          "upComingPromotionNotify": null,
+          "currentComboCartItem": null,
+          "outOfStock": false,
+          "outOfUsage": false,
+          "__typename": "PriceOfProduct"
+        },
+        "__typename": "SellerProduct"
+      },
+      {
+        "minOrderQuantity": 1,
+        "fulfillmentMode": "IN_STOCK",
+        "vatType": "REQUIRED",
+        "tag": {
+          "topTag": "IN_STOCK",
+          "__typename": "CardSellerProductTag"
+        },
+        "priceDrop": null,
+        "uom": {
+          "id": "qRrjK0jzw1B9_6",
+          "name": "Chiếc",
+          "code": "",
+          "__typename": "Uom"
+        },
+        "id": "B7PYYMo0WPEG_95740964",
+        "name": "Tản nhiệt nước THERMALRIGHT AIO Frozen Vision 360 Black Argb V2",
+        "vat": false,
+        "thumbnail": "https://pixel.c-group.online/v1/image/t_origin/1753082273-986.jpg",
+        "price": 2890000,
+        "stockStatus": "FULL",
+        "inCartQuantity": 0,
+        "code": "CP012770",
+        "isSellable": true,
+        "canSellWithoutStock": false,
+        "brand": {
+          "id": "wy5Kj7xb6X2j_4600",
+          "name": "THERMALRIGHT",
+          "logoURL": null,
+          "__typename": "Brand"
+        },
+        "promotionProducts": [
+          {
+            "productID": "B7PYYMo0WPEG_95740964",
+            "promotionCampaignTier": {
+              "id": "ALQkKleg6eM0_698",
+              "name": "Mua tối thiểu 1 combo được giảm 2.170.000đ/combo",
+              "type": "DISCOUNT_MONEY",
+              "__typename": "PromotionCampaignTier"
+            },
+            "__typename": "ConditionPromotionProduct"
+          }
+        ],
+        "currentPriceBidSession": null,
+        "productDiscounts": [
+          {
+            "productID": "B7PYYMo0WPEG_95740964",
+            "minQuantity": 10,
+            "maxQuantity": 19,
+            "discountAmount": 50000,
+            "isSelected": false,
+            "priceAfterDiscount": 2840000,
+            "totalDiscountMoney": 0,
+            "__typename": "SellerProductDiscount"
+          },
+          {
+            "productID": "B7PYYMo0WPEG_95740964",
+            "minQuantity": 20,
+            "maxQuantity": null,
+            "discountAmount": 100000,
+            "isSelected": false,
+            "priceAfterDiscount": 2790000,
+            "totalDiscountMoney": 0,
+            "__typename": "SellerProductDiscount"
+          }
+        ],
+        "collectionID": "ranWKNLzjyY1_8",
+        "priceOfProduct": {
+          "price": 2890000,
+          "originalPrice": 2890000,
+          "appliedDiscountProductTier": null,
+          "upComingPromotionNotify": null,
+          "currentComboCartItem": null,
+          "outOfStock": false,
+          "outOfUsage": false,
+          "__typename": "PriceOfProduct"
+        },
+        "__typename": "SellerProduct"
+      },
+      {
+        "minOrderQuantity": 1,
+        "fulfillmentMode": "IN_STOCK",
+        "vatType": "REQUIRED",
+        "tag": {
+          "topTag": "IN_STOCK",
+          "__typename": "CardSellerProductTag"
+        },
+        "priceDrop": null,
+        "uom": {
+          "id": "qRrjK0jzw1B9_6",
+          "name": "Chiếc",
+          "code": "",
+          "__typename": "Uom"
+        },
+        "id": "nVKkoqRWxK1M_95740963",
+        "name": "Tản nhiệt nước THERMALRIGHT AIO Hyper Vision 360 ARGB Black",
+        "vat": false,
+        "thumbnail": "https://pixel.c-group.online/v1/image/t_origin/1753083225-100.jpg",
+        "price": 3180000,
+        "stockStatus": "FULL",
+        "inCartQuantity": 0,
+        "code": "CP012769",
+        "isSellable": true,
+        "canSellWithoutStock": false,
+        "brand": {
+          "id": "wy5Kj7xb6X2j_4600",
+          "name": "THERMALRIGHT",
+          "logoURL": null,
+          "__typename": "Brand"
+        },
+        "promotionProducts": [
+          {
+            "productID": "nVKkoqRWxK1M_95740963",
+            "promotionCampaignTier": {
+              "id": "ALQkKleg6eM0_698",
+              "name": "Mua tối thiểu 1 combo được giảm 2.170.000đ/combo",
+              "type": "DISCOUNT_MONEY",
+              "__typename": "PromotionCampaignTier"
+            },
+            "__typename": "ConditionPromotionProduct"
+          }
+        ],
+        "currentPriceBidSession": null,
+        "productDiscounts": [
+          {
+            "productID": "nVKkoqRWxK1M_95740963",
+            "minQuantity": 10,
+            "maxQuantity": 19,
+            "discountAmount": 40000,
+            "isSelected": false,
+            "priceAfterDiscount": 3140000,
+            "totalDiscountMoney": 0,
+            "__typename": "SellerProductDiscount"
+          },
+          {
+            "productID": "nVKkoqRWxK1M_95740963",
+            "minQuantity": 20,
+            "maxQuantity": null,
+            "discountAmount": 90000,
+            "isSelected": false,
+            "priceAfterDiscount": 3090000,
+            "totalDiscountMoney": 0,
+            "__typename": "SellerProductDiscount"
+          }
+        ],
+        "collectionID": "ranWKNLzjyY1_8",
+        "priceOfProduct": {
+          "price": 3180000,
+          "originalPrice": 3180000,
+          "appliedDiscountProductTier": null,
+          "upComingPromotionNotify": null,
+          "currentComboCartItem": null,
+          "outOfStock": false,
+          "outOfUsage": false,
+          "__typename": "PriceOfProduct"
+        },
+        "__typename": "SellerProduct"
+      },
+      {
+        "minOrderQuantity": 1,
+        "fulfillmentMode": "IN_STOCK",
+        "vatType": "REQUIRED",
+        "tag": {
+          "topTag": "IN_STOCK",
+          "__typename": "CardSellerProductTag"
+        },
+        "priceDrop": null,
+        "uom": {
+          "id": "qRrjK0jzw1B9_6",
+          "name": "Chiếc",
+          "code": "",
+          "__typename": "Uom"
+        },
+        "id": "g0P7VNZ00zWO_95740962",
+        "name": "Tản nhiệt nước THERMALRIGHT AIO Frozen Notte 360 Black ARGB V2",
+        "vat": false,
+        "thumbnail": "https://pixel.c-group.online/v1/image/t_origin/1753082128-161.jpg",
+        "price": 1800000,
+        "stockStatus": "FULL",
+        "inCartQuantity": 0,
+        "code": "CP012768",
+        "isSellable": true,
+        "canSellWithoutStock": false,
+        "brand": {
+          "id": "wy5Kj7xb6X2j_4600",
+          "name": "THERMALRIGHT",
+          "logoURL": null,
+          "__typename": "Brand"
+        },
+        "promotionProducts": [
+          {
+            "productID": "g0P7VNZ00zWO_95740962",
+            "promotionCampaignTier": {
+              "id": "ALQkKleg6eM0_698",
+              "name": "Mua tối thiểu 1 combo được giảm 2.170.000đ/combo",
+              "type": "DISCOUNT_MONEY",
+              "__typename": "PromotionCampaignTier"
+            },
+            "__typename": "ConditionPromotionProduct"
+          }
+        ],
+        "currentPriceBidSession": null,
+        "productDiscounts": [
+          {
+            "productID": "g0P7VNZ00zWO_95740962",
+            "minQuantity": 10,
+            "maxQuantity": 29,
+            "discountAmount": 60000,
+            "isSelected": false,
+            "priceAfterDiscount": 1740000,
+            "totalDiscountMoney": 0,
+            "__typename": "SellerProductDiscount"
+          },
+          {
+            "productID": "g0P7VNZ00zWO_95740962",
+            "minQuantity": 30,
+            "maxQuantity": null,
+            "discountAmount": 110000,
+            "isSelected": false,
+            "priceAfterDiscount": 1690000,
+            "totalDiscountMoney": 0,
+            "__typename": "SellerProductDiscount"
+          }
+        ],
+        "collectionID": "ranWKNLzjyY1_8",
+        "priceOfProduct": {
+          "price": 1800000,
+          "originalPrice": 1800000,
+          "appliedDiscountProductTier": null,
+          "upComingPromotionNotify": null,
+          "currentComboCartItem": null,
+          "outOfStock": false,
+          "outOfUsage": false,
+          "__typename": "PriceOfProduct"
+        },
+        "__typename": "SellerProduct"
+      },
+      {
+        "minOrderQuantity": 1,
+        "fulfillmentMode": "IN_STOCK",
+        "vatType": "REQUIRED",
+        "tag": {
+          "topTag": "IN_STOCK",
+          "__typename": "CardSellerProductTag"
+        },
+        "priceDrop": null,
+        "uom": {
+          "id": "qRrjK0jzw1B9_6",
+          "name": "Chiếc",
+          "code": "",
+          "__typename": "Uom"
+        },
+        "id": "7O6qQYl8o6GM_95740958",
+        "name": "Tản nhiệt nước THERMALRIGHT AIO Frozen Infinity 360 Black",
+        "vat": false,
+        "thumbnail": "https://pixel.c-group.online/v1/image/t_origin/1753081808-121.jpg",
+        "price": 1390000,
+        "stockStatus": "FULL",
+        "inCartQuantity": 0,
+        "code": "CP012764",
+        "isSellable": true,
+        "canSellWithoutStock": false,
+        "brand": {
+          "id": "wy5Kj7xb6X2j_4600",
+          "name": "THERMALRIGHT",
+          "logoURL": null,
+          "__typename": "Brand"
+        },
+        "promotionProducts": [
+          {
+            "productID": "7O6qQYl8o6GM_95740958",
+            "promotionCampaignTier": {
+              "id": "EQWmzOQLKavA_697",
+              "name": "Mua tối thiểu 1 combo được giảm 900.000đ/combo",
+              "type": "DISCOUNT_MONEY",
+              "__typename": "PromotionCampaignTier"
+            },
+            "__typename": "ConditionPromotionProduct"
+          }
+        ],
+        "currentPriceBidSession": null,
+        "productDiscounts": [
+          {
+            "productID": "7O6qQYl8o6GM_95740958",
+            "minQuantity": 10,
+            "maxQuantity": 19,
+            "discountAmount": 40000,
+            "isSelected": false,
+            "priceAfterDiscount": 1350000,
+            "totalDiscountMoney": 0,
+            "__typename": "SellerProductDiscount"
+          },
+          {
+            "productID": "7O6qQYl8o6GM_95740958",
+            "minQuantity": 20,
+            "maxQuantity": null,
+            "discountAmount": 80000,
+            "isSelected": false,
+            "priceAfterDiscount": 1310000,
+            "totalDiscountMoney": 0,
+            "__typename": "SellerProductDiscount"
+          }
+        ],
+        "collectionID": "ranWKNLzjyY1_8",
+        "priceOfProduct": {
+          "price": 1390000,
+          "originalPrice": 1390000,
+          "appliedDiscountProductTier": null,
+          "upComingPromotionNotify": null,
+          "currentComboCartItem": null,
+          "outOfStock": false,
+          "outOfUsage": false,
+          "__typename": "PriceOfProduct"
+        },
+        "__typename": "SellerProduct"
+      },
+      {
+        "minOrderQuantity": 1,
+        "fulfillmentMode": "IN_STOCK",
+        "vatType": "REQUIRED",
+        "tag": {
+          "topTag": "IN_STOCK",
+          "__typename": "CardSellerProductTag"
+        },
+        "priceDrop": null,
+        "uom": {
+          "id": "eDlJKRo6Gk0v_4",
+          "name": "Cái",
+          "code": "",
+          "__typename": "Uom"
+        },
+        "id": "BvKdon22OPMy_95740874",
+        "name": "Màn hình TITAN ARMY P2710R2 27 inch, 2K, 200 Hz, 1ms, Phẳng",
+        "vat": false,
+        "thumbnail": "https://pixel.c-group.online/v1/image/t_origin/1750236316-182.jpg",
+        "price": 3540000,
+        "stockStatus": "FULL",
+        "inCartQuantity": 0,
+        "code": "CP012680",
+        "isSellable": true,
+        "canSellWithoutStock": false,
+        "brand": {
+          "id": "BvKd305kOPMy_6000630",
+          "name": "TITAN ARMY",
+          "logoURL": null,
+          "__typename": "Brand"
+        },
+        "promotionProducts": null,
+        "currentPriceBidSession": null,
+        "productDiscounts": null,
+        "collectionID": "ranWKNLzjyY1_8",
+        "priceOfProduct": {
+          "price": 3540000,
+          "originalPrice": 3540000,
+          "appliedDiscountProductTier": null,
+          "upComingPromotionNotify": null,
+          "currentComboCartItem": null,
+          "outOfStock": false,
+          "outOfUsage": false,
+          "__typename": "PriceOfProduct"
+        },
+        "__typename": "SellerProduct"
+      }
+    ]
+  },
+  "pre_order": {
+    "id": "nlarPVD6NGe2_11",
+    "name": "Đặt hàng sớm, lợi ích lớn",
+    "description": null,
+    "iconURL": "https://pixel.c-group.online/v1/image/t_origin/1734430879-340.png",
+    "backgroundColor": null,
+    "titleColor": "#FFFFFF",
+    "navigateListButtonColor": "#FFFFFF",
+    "backgroundImageURL": "https://pixel.c-group.online/v1/image/t_origin/1734430879-889.png",
+    "displayType": "SLIDE",
+    "type": "PRE_ORDER_CAMPAIGN",
+    "canDisplay": false,
+    "promotions": null,
+    "campaigns": null,
+    "__typename": "ProductCollection",
+    "products": [
+      {
+        "id": "4ZKXkM5w2PGA_95740878",
+        "name": "Màn hình TITAN ARMY P25M2L 24.1 inch, FHD, 540 Hz, Fast TN, 0.5ms, Phẳng",
+        "price": -20000,
+        "collectionID": "Vwy5KjJKX2j4_0",
+        "__typename": "SellerProduct"
+      }
+    ]
+  }
+}
