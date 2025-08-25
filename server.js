@@ -8,15 +8,11 @@ const middlewares = jsonServer.defaults();
 server.use(middlewares);
 server.use(jsonServer.bodyParser);
 
-// PUT /db - cập nhật toàn bộ db.json
 server.put("/db", (req, res) => {
   try {
-    const jsonData = req.body; // JSON body
+    const jsonData = req.body;
 
-    // Ghi file
     fs.writeFileSync("db.json", JSON.stringify(jsonData, null, 2));
-
-    // Chỉ log khi không phải production để giảm rate limit
     if (process.env.NODE_ENV !== "production") {
       console.log("db.json updated:", jsonData);
     }
@@ -28,7 +24,6 @@ server.put("/db", (req, res) => {
   }
 });
 
-// GET /data - lấy collection 'data' từ db.json
 server.get("/data", (req, res) => {
   try {
     const db = JSON.parse(fs.readFileSync("db.json", "utf-8"));
@@ -40,7 +35,6 @@ server.get("/data", (req, res) => {
   }
 });
 
-// Sử dụng router mặc định cho các route khác
 server.use(router);
 
 const PORT = process.env.PORT || 8080;
