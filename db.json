@@ -1,5 +1,93 @@
 {
-  "aution": {
+  "test": {
+    "id": "nlarPVD6NGe2_11",
+    "name": "Đặt hàng sớm, lợi ích lớn",
+    "description": null,
+    "iconURL": "https://pixel.c-group.online/v1/image/t_origin/1734430879-340.png",
+    "backgroundColor": null,
+    "titleColor": "#FFFFFF",
+    "navigateListButtonColor": "#FFFFFF",
+    "backgroundImageURL": "https://pixel.c-group.online/v1/image/t_origin/1734430879-889.png",
+    "displayType": "SLIDE",
+    "type": "PRE_ORDER_CAMPAIGN",
+    "canDisplay": false,
+    "promotions": null,
+    "campaigns": null,
+    "__typename": "ProductCollection",
+    "products": [
+      {
+        "id": "lJKRDM2NkzGk_95741048",
+        "name": "Nguồn máy tính THERMALRIGHT TR-TB850S",
+        "price": 1225000,
+        "collectionID": "Vwy5KjJKX2j4_0",
+        "__typename": "SellerProduct"
+      },
+      {
+        "id": "OjPwjG4xZzl9_95741046",
+        "name": "Nguồn máy tính THERMALRIGHT TR-SGFX 850W",
+        "price": 2220000,
+        "collectionID": "Vwy5KjJKX2j4_0",
+        "__typename": "SellerProduct"
+      },
+      {
+        "id": "15K9Dl34wPrd_95741045",
+        "name": "Nguồn máy tính THERMALRIGHT TR-SGFX 650W",
+        "price": 1800000,
+        "collectionID": "Vwy5KjJKX2j4_0",
+        "__typename": "SellerProduct"
+      },
+      {
+        "id": "y5KjXDYJjzX2_95741044",
+        "name": "Nguồn máy tính THERMALRIGHT TR-KG850W",
+        "price": 1440000,
+        "collectionID": "Vwy5KjJKX2j4_0",
+        "__typename": "SellerProduct"
+      },
+      {
+        "id": "aXPv2wZyAP75_95741043",
+        "name": "Nguồn máy tính THERMALRIGHT TR-KG750W",
+        "price": 1360000,
+        "collectionID": "Vwy5KjJKX2j4_0",
+        "__typename": "SellerProduct"
+      },
+      {
+        "id": "7RKx9RXL06XM_95741042",
+        "name": "Nguồn máy tính THERMALRIGHT TR-KG650W",
+        "price": 1180000,
+        "collectionID": "Vwy5KjJKX2j4_0",
+        "__typename": "SellerProduct"
+      },
+      {
+        "id": "9nKQ3QMAqzQ7_95741041",
+        "name": "Nguồn máy tính THERMALRIGHT TR-KG850",
+        "price": 1390000,
+        "collectionID": "Vwy5KjJKX2j4_0",
+        "__typename": "SellerProduct"
+      },
+      {
+        "id": "w0Krogyre6DN_95741040",
+        "name": "Nguồn máy tính THERMALRIGHT TR-KG750",
+        "price": 1290000,
+        "collectionID": "Vwy5KjJKX2j4_0",
+        "__typename": "SellerProduct"
+      },
+      {
+        "id": "kNzAg7YodKgy_95741039",
+        "name": "Nguồn máy tính THERMALRIGHT TR-KG650",
+        "price": 1100000,
+        "collectionID": "Vwy5KjJKX2j4_0",
+        "__typename": "SellerProduct"
+      },
+      {
+        "id": "rN6aoRVOgPQE_95741038",
+        "name": "Tản nhiệt nước THERMALRIGHT AIO Mjolnir Vision 360 Argb White",
+        "price": 2590000,
+        "collectionID": "Vwy5KjJKX2j4_0",
+        "__typename": "SellerProduct"
+      }
+    ]
+  },
+  "auction": {
     "id": "EQWmzOmKavAg_9",
     "name": "Chương trình đấu giá",
     "description": null,
@@ -128,7 +216,7 @@
     "products": [
       {
         "id": "rjK0R955rzw1_95740850",
-        "name": "Ổ cứng HDD WD 1TB 3.5 Sata Blue WD10EZEX (7200rpm)",
+        "name": "Ổ cứng HDD WD 1TB 3.5\" Sata Blue WD10EZEX (7200rpm)",
         "thumbnail": null,
         "brandId": "D2vPyvR7K5Jb_2328",
         "brandName": "WD",
@@ -1933,9 +2021,72 @@
     "__typename": "ProductCollection",
     "products": [
       {
-        "id": "4ZKXkM5w2PGA_95740878",
-        "name": "Màn hình TITAN ARMY P25M2L 24.1 inch, FHD, 540 Hz, Fast TN, 0.5ms, Phẳng",
-        "price": -20000,
+        "id": "lJKRDM2NkzGk_95741048",
+        "name": "Nguồn máy tính THERMALRIGHT TR-TB850S",
+        "price": 1225000,
+        "collectionID": "Vwy5KjJKX2j4_0",
+        "__typename": "SellerProduct"
+      },
+      {
+        "id": "OjPwjG4xZzl9_95741046",
+        "name": "Nguồn máy tính THERMALRIGHT TR-SGFX 850W",
+        "price": 2220000,
+        "collectionID": "Vwy5KjJKX2j4_0",
+        "__typename": "SellerProduct"
+      },
+      {
+        "id": "15K9Dl34wPrd_95741045",
+        "name": "Nguồn máy tính THERMALRIGHT TR-SGFX 650W",
+        "price": 1800000,
+        "collectionID": "Vwy5KjJKX2j4_0",
+        "__typename": "SellerProduct"
+      },
+      {
+        "id": "y5KjXDYJjzX2_95741044",
+        "name": "Nguồn máy tính THERMALRIGHT TR-KG850W",
+        "price": 1440000,
+        "collectionID": "Vwy5KjJKX2j4_0",
+        "__typename": "SellerProduct"
+      },
+      {
+        "id": "aXPv2wZyAP75_95741043",
+        "name": "Nguồn máy tính THERMALRIGHT TR-KG750W",
+        "price": 1360000,
+        "collectionID": "Vwy5KjJKX2j4_0",
+        "__typename": "SellerProduct"
+      },
+      {
+        "id": "7RKx9RXL06XM_95741042",
+        "name": "Nguồn máy tính THERMALRIGHT TR-KG650W",
+        "price": 1180000,
+        "collectionID": "Vwy5KjJKX2j4_0",
+        "__typename": "SellerProduct"
+      },
+      {
+        "id": "9nKQ3QMAqzQ7_95741041",
+        "name": "Nguồn máy tính THERMALRIGHT TR-KG850",
+        "price": 1390000,
+        "collectionID": "Vwy5KjJKX2j4_0",
+        "__typename": "SellerProduct"
+      },
+      {
+        "id": "w0Krogyre6DN_95741040",
+        "name": "Nguồn máy tính THERMALRIGHT TR-KG750",
+        "price": 1290000,
+        "collectionID": "Vwy5KjJKX2j4_0",
+        "__typename": "SellerProduct"
+      },
+      {
+        "id": "kNzAg7YodKgy_95741039",
+        "name": "Nguồn máy tính THERMALRIGHT TR-KG650",
+        "price": 1100000,
+        "collectionID": "Vwy5KjJKX2j4_0",
+        "__typename": "SellerProduct"
+      },
+      {
+        "id": "rN6aoRVOgPQE_95741038",
+        "name": "Tản nhiệt nước THERMALRIGHT AIO Mjolnir Vision 360 Argb White",
+        "price": 2590000,
         "collectionID": "Vwy5KjJKX2j4_0",
         "__typename": "SellerProduct"
       }

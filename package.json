@@ -7,10 +7,11 @@
   "type": "commonjs",
   "main": "index.js",
   "scripts": {
-    "start": "json-server --watch db.json --port $PORT",
-    "dev": "json-server --watch db.json --port $PORT --delay 500"
+    "start": "node server.js",
+    "dev": "node server.js"
   },
   "dependencies": {
-    "json-server": "^0.17.4"
+    "json-server": "^0.17.4",
+    "multer": "^2.0.2"
   }
 }
